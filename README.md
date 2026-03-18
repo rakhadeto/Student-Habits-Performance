@@ -271,5 +271,3 @@ This project is for educational and portfolio purposes. Dataset originally from 
 ---
 
 <p align="center">
-  Made with ❤️ using Python · pandas · matplotlib · seaborn
-</p>

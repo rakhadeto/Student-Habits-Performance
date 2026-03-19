@@ -61,7 +61,7 @@ student-habits-performance/
 │   └── sleep_exercise.png                     # Analisis tidur & olahraga
 │
 ├── 📁 reports/
-│   └── Laporan_Descriptive_Analytics_StudentHabits.docx   # Laporan lengkap Word (Bahasa Indonesia)
+│   └── Laporan Descriptive Analytics Naufal.docx   # Laporan lengkap Word (Bahasa Indonesia)
 │
 ├── requirements.txt
 └── README.md

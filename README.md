@@ -269,7 +269,3 @@ Sumber data terbuka terkemuka lainnya meliputi:
 Proyek ini dibuat untuk keperluan edukasi dan portofolio. Dataset berasal dari Kaggle.
 
 ---
-
-<p align="center">
-  Dibuat dengan ❤️ menggunakan Python · pandas · matplotlib · seaborn
-</p>
